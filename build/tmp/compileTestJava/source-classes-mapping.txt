@@ -1,0 +1,2 @@
+com/example/parseLogs/ParseLogsApplicationTests.java
+ com.example.parseLogs.ParseLogsApplicationTests

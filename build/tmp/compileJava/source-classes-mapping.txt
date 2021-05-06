@@ -1,0 +1,8 @@
+com/example/parseLogs/ParseLogsApplication.java
+ com.example.parseLogs.ParseLogsApplication
+com/example/parseLogs/gateway/Logs.java
+ com.example.parseLogs.gateway.Logs
+com/example/parseLogs/repo/LogsRepository.java
+ com.example.parseLogs.repo.LogsRepository
+com/example/parseLogs/models/LogsEntity.java
+ com.example.parseLogs.models.LogsEntity
